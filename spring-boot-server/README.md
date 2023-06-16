@@ -1,4 +1,4 @@
-# Task-1-Kaiburr-Assessment
+# Spring Boot Server
 #### The purpose of this repository is to provide a solution to Task 1 from the Kaiburr's Assessment. Submitted by Dev Bilaspure.
 
 ### Task Description
